@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Ftiness Club</h1>
 
-<p id="description">Developed a dynamic eCommerce website providing an intuitive platform for online shopping and seamless user experiences. Designed with a focus on user engagement the website enables customers to browse s and securely purchase products from a diverse catalog.</p>
+<p id="description">Developed a dynamic eCommerce website providing an intuitive platform for online shopping and seamless user experiences. Designed with a focus on user engagement the website enables customers to browse  and securely purchase products from a diverse catalog.</p>
 
 <p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue"></p>
 
