@@ -82,7 +82,11 @@ Technologies used in the project:
 <img src = "https://github.com/abhay404science/Fitness-club/assets/173938121/dfe7aea1-8ed2-47d9-9a9e-d1ae20935082" width="500" height="300">
 
 <img src = "https://github.com/abhay404science/Fitness-club/assets/173938121/19e00a91-12c7-4821-a2af-d08233c9485b" width="500" height="300">
-</center>
+
+<h3>Checkout Form</h3>
+
+<img src = "https://github.com/Aniikr8/Fitness-Club/assets/74367440/25b1219a-ba53-4951-b08f-fe414bfed6fb" width="500" height="300">
+
 
 <h3>Admin Page</h3>
 
